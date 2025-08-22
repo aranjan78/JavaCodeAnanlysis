@@ -1,0 +1,70 @@
+{
+  "total_files_converted": 12,
+  "by_type": {
+    "controller": 3,
+    "service": 4,
+    "dao": 5
+  },
+  "converted_files": [
+    {
+      "original": "AdminController.java",
+      "type": "controller",
+      "target": "routes\\AdminRoutes.js"
+    },
+    {
+      "original": "ErrorController.java",
+      "type": "controller",
+      "target": "routes\\ErrorRoutes.js"
+    },
+    {
+      "original": "UserController.java",
+      "type": "controller",
+      "target": "routes\\UserRoutes.js"
+    },
+    {
+      "original": "cartDao.java",
+      "type": "dao",
+      "target": "models\\cartDao.js"
+    },
+    {
+      "original": "cartProductDao.java",
+      "type": "dao",
+      "target": "models\\cartProductDao.js"
+    },
+    {
+      "original": "categoryDao.java",
+      "type": "dao",
+      "target": "models\\categoryDao.js"
+    },
+    {
+      "original": "productDao.java",
+      "type": "dao",
+      "target": "models\\productDao.js"
+    },
+    {
+      "original": "userDao.java",
+      "type": "dao",
+      "target": "models\\userDao.js"
+    },
+    {
+      "original": "cartService.java",
+      "type": "service",
+      "target": "services\\cartService.js"
+    },
+    {
+      "original": "categoryService.java",
+      "type": "service",
+      "target": "services\\categoryService.js"
+    },
+    {
+      "original": "productService.java",
+      "type": "service",
+      "target": "services\\productService.js"
+    },
+    {
+      "original": "userService.java",
+      "type": "service",
+      "target": "services\\userService.js"
+    }
+  ]
+}
