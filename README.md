@@ -26,3 +26,4 @@ Notes:
 - Sample Java Project used to test is under directory **JavaProject**
 - Sample generated express.js output files are under directory **converted-express**
 - Sample output of java project ananlysis json generated from above JavaProject is in file java_ee_analysis.json
+- Power Point Presentation for monolith to microservices strategy available as **Project-Catalyst-Modernizing-the-Legacy-Enterprise-Platform.pptx** 
