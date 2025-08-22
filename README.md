@@ -20,5 +20,5 @@ To Run of Java code analysis: Fill PROJECT_PATH and GROQ_API_KEY in function run
            complexity - Low/Medium/High/Very High
 
   
-**JavaSpring2Express**.py scan a java spring project directory, find controller / service / DAO classes and generate equivalent code in for express.js framework other types of files will be ignored.
+**JavaSpring2Express.py** scan a java spring project directory, find controller / service / DAO classes and generate equivalent code in for express.js framework other types of files will be ignored.
 Run it as stanalone python script, it will ask for source java directory and destination directory to generate express.js router / services / models code under destination.
